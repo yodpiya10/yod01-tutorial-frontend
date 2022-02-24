@@ -109,5 +109,3 @@ set backend api
 VUE_APP_ENPOINT_API_BACKEND=http://localhost:8089/api
 
 
-
-
